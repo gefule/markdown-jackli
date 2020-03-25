@@ -2,4 +2,4 @@
 用于typora的markdown主题样式
 文本内容来自`马克飞象`显示效果如下：
 
-![](http://q7qiy5c6k.bkt.clouddn.com/img/2020/03/25/1585115216541.png)
+![](https://github.com/gefule/markdown-jackli/blob/master/demo.png)
